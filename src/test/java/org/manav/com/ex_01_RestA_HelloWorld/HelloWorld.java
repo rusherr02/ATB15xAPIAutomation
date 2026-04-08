@@ -24,7 +24,7 @@ public class HelloWorld {
                  .when()
                     .get()
                  .then()
-                    .statusCode(201);
+                    .statusCode(201 );
 
      }
 
